@@ -1,0 +1,6 @@
+One Implementation of C++ Refection
+
+Use c + + template metaprogramming techniques, generated during compilation metadata stored in read-only data area
+Need gcc 4.7 or later
+
+
