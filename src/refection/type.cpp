@@ -11,10 +11,10 @@
 
 namespace refection {
 
-#if 0
 REFECTION_CLASS_IMPLEMENT_BEGIN(Object)
 REFECTION_CLASS_IMPLEMENT_END()
 
+#if 0
 REFECTION_CLASS_REGISTER_GLOBAL((refection), Object)
 #endif
 

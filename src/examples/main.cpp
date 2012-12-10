@@ -1,21 +1,10 @@
-//============================================================================
-// Name        : reflection.cpp
-// Author      : YH
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/*
+ * main.cpp
+ *
+ *  Created on: 2012-9-21
+ *      Author: yanghuan
+ */
 
-#include <iostream>
-
-#include <typeinfo>
-
-
-#include <vector>
-
-#include "refection/register.hpp"
-
-using namespace std;
 
 int main() {
     extern void test1();
