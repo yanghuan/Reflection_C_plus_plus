@@ -55,6 +55,7 @@ void test1() {
     const MethodInfo* array = t.package_.method_list_;
     const size_t size = t.package_.method_list_size_;
 
+    /* show function info  */
     for(size_t i = 0 ; i < size; ++i) {
         cout << getDemangleString(array[i].declaring_type_.package_.type_info_.name()) << endl;
         cout << getDemangleString(array[i].signature_.name()) << endl;
