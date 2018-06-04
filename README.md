@@ -81,3 +81,6 @@ void test1() {
     }
 }
 ```
+
+## *Note*
+It's very simple, just do the technical principle show.
